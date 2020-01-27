@@ -11,6 +11,8 @@ ZIGSIM IPHONE App
 For iphone's we use the free app ZigSim. get it from the 
 appstore: https://apps.apple.com/us/app/zig-sim-pro/id1481556614
 
+or we can use the Pro version of the app: https://apps.apple.com/us/app/zig-sim-pro/id1481556614
+
 
 ZIGSIM ANDROID app
 For android phones we need to download the app manually and install manually. You can find the app here: https://apkpure.com/zig-sim/com.oneten.drive.zig_sim/download?from=details
