@@ -1864,7 +1864,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 358.0, 102.0, 618.0, 764.0 ],
+						"rect" : [ 358.0, 102.0, 605.0, 523.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
@@ -1891,7 +1891,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "mm",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
