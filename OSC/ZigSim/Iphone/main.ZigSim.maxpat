@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 94.0, 376.0, 1186.0, 679.0 ],
+		"rect" : [ 103.0, 128.0, 1186.0, 679.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -167,13 +167,13 @@
 		"lines" : [  ],
 		"parameters" : 		{
 			"obj-8::obj-31" : [ "live.numbox[5]", "live.numbox[1]", 0 ],
-			"obj-8::obj-123" : [ "live.numbox[24]", "live.numbox[1]", 0 ],
 			"obj-8::obj-25" : [ "live.numbox[2]", "live.numbox[1]", 0 ],
+			"obj-8::obj-123" : [ "live.numbox[24]", "live.numbox[1]", 0 ],
 			"obj-8::obj-64" : [ "live.button[22]", "live.button", 0 ],
-			"obj-8::obj-59" : [ "live.button[8]", "live.button", 0 ],
-			"obj-8::obj-139" : [ "live.numbox[30]", "live.numbox[1]", 0 ],
 			"obj-8::obj-79" : [ "live.button[69]", "live.button", 0 ],
+			"obj-8::obj-59" : [ "live.button[8]", "live.button", 0 ],
 			"obj-8::obj-41" : [ "live.numbox[7]", "live.numbox[1]", 0 ],
+			"obj-8::obj-139" : [ "live.numbox[30]", "live.numbox[1]", 0 ],
 			"obj-8::obj-186" : [ "write[10]", "write", 0 ],
 			"obj-8::obj-121" : [ "live.numbox[22]", "live.numbox[1]", 0 ],
 			"obj-8::obj-26" : [ "live.numbox[3]", "live.numbox[1]", 0 ],
@@ -187,29 +187,29 @@
 			"obj-8::obj-188" : [ "write[11]", "write", 0 ],
 			"obj-8::obj-89" : [ "live.button[20]", "live.button", 0 ],
 			"obj-8::obj-69" : [ "live.button[14]", "live.button", 0 ],
-			"obj-8::obj-43" : [ "live.numbox[9]", "live.numbox[1]", 0 ],
-			"obj-8::obj-45" : [ "live.button[4]", "live.button", 0 ],
-			"obj-8::obj-94" : [ "live.button[26]", "live.button", 0 ],
-			"obj-8::obj-9" : [ "live.button", "live.button", 0 ],
 			"obj-8::obj-53" : [ "live.numbox[34]", "live.numbox[1]", 0 ],
+			"obj-8::obj-9" : [ "live.button", "live.button", 0 ],
+			"obj-8::obj-45" : [ "live.button[4]", "live.button", 0 ],
+			"obj-8::obj-43" : [ "live.numbox[9]", "live.numbox[1]", 0 ],
+			"obj-8::obj-94" : [ "live.button[26]", "live.button", 0 ],
 			"obj-8::obj-109" : [ "write[3]", "write", 0 ],
 			"obj-8::obj-27" : [ "live.numbox[4]", "live.numbox[1]", 0 ],
 			"obj-8::obj-14" : [ "live.text[1]", "live.text", 0 ],
 			"obj-8::obj-137" : [ "live.button[68]", "live.button", 0 ],
 			"obj-8::obj-2" : [ "write[12]", "write", 0 ],
 			"obj-8::obj-80" : [ "live.button[17]", "live.button", 0 ],
-			"obj-8::obj-57" : [ "live.button[7]", "live.button", 0 ],
-			"obj-8::obj-146" : [ "live.numbox[31]", "live.numbox[1]", 0 ],
 			"obj-8::obj-203" : [ "live.numbox[11]", "live.numbox[1]", 0 ],
+			"obj-8::obj-146" : [ "live.numbox[31]", "live.numbox[1]", 0 ],
+			"obj-8::obj-57" : [ "live.button[7]", "live.button", 0 ],
 			"obj-8::obj-83" : [ "live.button[25]", "live.button", 0 ],
 			"obj-8::obj-191" : [ "live.button[35]", "live.button", 0 ],
 			"obj-8::obj-115" : [ "write[4]", "write", 0 ],
-			"obj-8::obj-138" : [ "live.numbox[29]", "live.numbox[1]", 0 ],
 			"obj-8::obj-133" : [ "live.button[18]", "live.button", 0 ],
 			"obj-8::obj-112" : [ "live.button[28]", "live.button", 0 ],
-			"obj-8::obj-61" : [ "live.button[10]", "live.button", 0 ],
-			"obj-8::obj-100" : [ "live.button[31]", "live.button", 0 ],
+			"obj-8::obj-138" : [ "live.numbox[29]", "live.numbox[1]", 0 ],
 			"obj-8::obj-149" : [ "write[13]", "write", 0 ],
+			"obj-8::obj-100" : [ "live.button[31]", "live.button", 0 ],
+			"obj-8::obj-61" : [ "live.button[10]", "live.button", 0 ],
 			"obj-8::obj-11" : [ "live.button[2]", "live.button", 0 ],
 			"obj-8::obj-190" : [ "live.button[70]", "live.button", 0 ],
 			"obj-8::obj-4" : [ "live.numbox[1]", "live.numbox[1]", 0 ],
@@ -217,23 +217,23 @@
 			"obj-8::obj-151" : [ "write[5]", "write", 0 ],
 			"obj-8::obj-105" : [ "live.numbox[36]", "live.numbox[1]", 0 ],
 			"obj-8::obj-65" : [ "live.button[13]", "live.button", 0 ],
-			"obj-8::obj-106" : [ "live.button[27]", "live.button", 0 ],
-			"obj-8::obj-42" : [ "live.numbox[8]", "live.numbox[1]", 0 ],
-			"obj-8::obj-92" : [ "live.numbox[35]", "live.numbox[1]", 0 ],
 			"obj-8::obj-23" : [ "live.button[3]", "live.button", 0 ],
 			"obj-8::obj-130" : [ "live.numbox[27]", "live.numbox[1]", 0 ],
+			"obj-8::obj-92" : [ "live.numbox[35]", "live.numbox[1]", 0 ],
+			"obj-8::obj-42" : [ "live.numbox[8]", "live.numbox[1]", 0 ],
+			"obj-8::obj-106" : [ "live.button[27]", "live.button", 0 ],
 			"obj-8::obj-171" : [ "write[14]", "write", 0 ],
-			"obj-8::obj-122" : [ "live.numbox[23]", "live.numbox[1]", 0 ],
 			"obj-8::obj-207" : [ "live.numbox[13]", "live.numbox[1]", 0 ],
+			"obj-8::obj-122" : [ "live.numbox[23]", "live.numbox[1]", 0 ],
 			"obj-8::obj-180" : [ "write[7]", "write", 0 ],
 			"obj-8::obj-193" : [ "write[2]", "write", 0 ],
-			"obj-8::obj-178" : [ "write[6]", "write", 0 ],
 			"obj-8::obj-74" : [ "live.button[16]", "live.button", 0 ],
+			"obj-8::obj-178" : [ "write[6]", "write", 0 ],
 			"obj-8::obj-56" : [ "live.button[6]", "live.button", 0 ],
 			"obj-8::obj-81" : [ "live.numbox[16]", "live.numbox[1]", 0 ],
-			"obj-8::obj-234" : [ "write[16]", "write", 0 ],
 			"obj-8::obj-176" : [ "live.button[33]", "live.button", 0 ],
 			"obj-8::obj-136" : [ "angle[1]", "angle", 0 ],
+			"obj-8::obj-234" : [ "write[16]", "write", 0 ],
 			"obj-8::obj-33" : [ "live.numbox[6]", "live.numbox[1]", 0 ],
 			"obj-8::obj-223" : [ "write[15]", "write", 0 ],
 			"obj-8::obj-129" : [ "live.numbox[26]", "live.numbox[1]", 0 ],
@@ -245,6 +245,33 @@
 			"obj-8::obj-184" : [ "write[9]", "write", 0 ],
 			"obj-8::obj-54" : [ "live.button[5]", "live.button", 0 ],
 			"parameterbanks" : 			{
+
+			}
+,
+			"parameter_overrides" : 			{
+				"obj-8::obj-79" : 				{
+					"parameter_longname" : "live.button[69]"
+				}
+,
+				"obj-8::obj-137" : 				{
+					"parameter_longname" : "live.button[68]"
+				}
+,
+				"obj-8::obj-190" : 				{
+					"parameter_longname" : "live.button[70]"
+				}
+,
+				"obj-8::obj-63" : 				{
+					"parameter_longname" : "live.numbox[40]"
+				}
+,
+				"obj-8::obj-136" : 				{
+					"parameter_longname" : "angle[1]"
+				}
+,
+				"obj-8::obj-205" : 				{
+					"parameter_longname" : "live.numbox[56]"
+				}
 
 			}
 
