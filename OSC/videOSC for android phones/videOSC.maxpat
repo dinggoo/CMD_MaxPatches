@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 0,
-			"revision" : 3,
+			"minor" : 1,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 126.0, 152.0, 1170.0, 764.0 ],
+		"rect" : [ 78.0, 79.0, 1148.0, 629.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -140,7 +140,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 486.9609375, 169.919448852539062, 394.859832763671875, 33.0 ],
+					"patching_rect" : [ 486.9609375, 169.919448852539062, 398.0, 33.0 ],
 					"text" : "In this subpatch we readout other sensors from the VideOSC app. Iff you want to use them you'll need to unpack the data from each outlet. "
 				}
 
@@ -156,8 +156,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 3,
+							"minor" : 1,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -481,13 +481,7 @@
 								}
 
 							}
- ],
-						"bgfillcolor_type" : "gradient",
-						"bgfillcolor_color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
-						"bgfillcolor_color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"bgfillcolor_color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"bgfillcolor_angle" : 270.0,
-						"bgfillcolor_proportion" : 0.39
+ ]
 					}
 ,
 					"patching_rect" : [ 453.325408935546875, 207.359603881835938, 613.54547119140625, 22.0 ],
@@ -667,8 +661,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 3,
+							"minor" : 1,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -761,13 +755,7 @@
 
 							}
  ],
-						"lines" : [  ],
-						"bgfillcolor_type" : "gradient",
-						"bgfillcolor_color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
-						"bgfillcolor_color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"bgfillcolor_color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"bgfillcolor_angle" : 270.0,
-						"bgfillcolor_proportion" : 0.39
+						"lines" : [  ]
 					}
 ,
 					"patching_rect" : [ 544.36279296875, 25.144861221313477, 80.0, 22.0 ],
@@ -792,8 +780,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 0,
-							"revision" : 3,
+							"minor" : 1,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
