@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 360.0, 152.0, 637.0, 623.0 ],
+		"rect" : [ 393.0, 148.0, 637.0, 623.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -117,7 +117,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 21.0, 11.0, 590.0, 33.0 ],
-					"text" : "Make you phone vibrate with the app StageCaller"
+					"text" : "Make your phone vibrate with the app StageCaller"
 				}
 
 			}
@@ -164,7 +164,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 28.0, 168.0, 171.0, 22.0 ],
-					"text" : "udpsend 192.168.178.66 1234"
+					"text" : "udpsend 192.168.178.64 1234"
 				}
 
 			}
